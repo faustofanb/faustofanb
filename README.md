@@ -1,4 +1,4 @@
-# 👋 你好，我是 @[你的 GitHub 用户名]
+# 👋 你好，我是 @[faustofanb]
 
 [![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=faustofanb&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=faustofanb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,7 +34,7 @@
 ### 📈 GitHub 活动状态 (GitHub Activity)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=radical&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=faustofanb&theme=radical&row=1&column=7" alt="GitHub Trophies">
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 📫 联系方式 & 链接 (Connect with Me)
 
 <p align="left">
-<a href="[https://faustofanb.github.io/blog/]" target="blank"><img align="center" src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="个人网站"/></a>
+<a href="[faustofanb.github.io/blog/]" target="blank"><img align="center" src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="个人网站"/></a>
 </p>
 
 ---
