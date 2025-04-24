@@ -42,7 +42,7 @@
 ### 📫 联系方式 & 链接 (Connect with Me)
 
 <p align="left">
-<a href="[https://faustofanb.github.io/blog/]" target="blank"><img align="center" src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="个人网站"/></a>
+<a href="https://faustofanb.github.io/blog/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="个人网站"/></a>
 </p>
 
 ---
