@@ -1,24 +1,24 @@
-# 👋 你好，我是 @[faustofanb]
+# 👋 Hi, I'm @[faustofanb]
 
-[![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=faustofanb&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=faustofanb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 👨‍💻 关于我 (About Me)
-
-*   🔭 我目前正在学习 Rust/Kotlin/NextJS
-*   🌱 我对 前后端 领域充满兴趣
-*   🤔 我正在寻求 工作机会 方面的帮助
-*   📫 如何联系我: [faustofanb@gmail.com]
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=faustofanb&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faustofanb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 🛠️ 我的技能栈 (My Skills)
+### 👨‍💻 About Me
 
-*   **编程语言:** [java], [kotlin], [rust]
-*   **前端:** [vue], [nextjs]
-*   **后端:** [springboot], [mysql], [redis]
+*   🔭 I’m currently learning Rust/Kotlin/NextJS
+*   🌱 I’m interested in Frontend and Backend development
+*   🤔 I’m looking for job opportunities
+*   📫 How to reach me: [faustofanb@gmail.com]
+
+---
+
+### 🛠️ My Skills
+
+*   **Programming Languages:** [java], [kotlin], [rust]
+*   **Frontend:** [vue], [nextjs]
+*   **Backend:** [springboot], [mysql], [redis]
 
 <!--
 <p align="left">
@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 GitHub 活动状态 (GitHub Activity)
+### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=faustofanb&theme=radical&row=1&column=7" alt="GitHub Trophies">
@@ -39,12 +39,12 @@
 
 ---
 
-### 📫 联系方式 & 链接 (Connect with Me)
+### 📫 Connect with Me
 
 <p align="left">
-<a href="https://faustofanb.github.io/blog/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="个人网站"/></a>
+<a href="https://faustofanb.github.io/blog/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
 
-感谢访问我的主页！😄
+Thanks for visiting my profile! 😄
